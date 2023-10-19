@@ -11,7 +11,7 @@ export default function PrincLogin(props) {
     return(
         <View style={styles.container}>
             <Text style={styles.defaultText}>
-                Welcome to new App
+                BEM VINDO
             </Text>
             <View>
                 <Button 
